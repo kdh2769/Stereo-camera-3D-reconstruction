@@ -3,7 +3,9 @@
 
 Result
 ------
-
+<p>
+  <img src="./result.gif" height='60%' width ='60%'>
+</p>
 
 Introduction
 ------------
@@ -16,14 +18,5 @@ Finally, set that point a origin point in world coordinate.
 
 Dependencies
 ------------
+It is tested with opencv-4.2.0 
 Mono camera calibration and stereo calibration using OpenCV method. 
-
-- Python : 3.8.2
-- OpenCV : 
-
-Manual
-------
-1. Set stero camera. 
-2. Capture chessboard pattern more than 6 images at the same time. 
-   (Remember the chess pattern size)
-3. 
